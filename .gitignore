@@ -11,3 +11,4 @@ public/components.*
 public/utils.*
 yarn.lock
 secrets
+package-lock.json
