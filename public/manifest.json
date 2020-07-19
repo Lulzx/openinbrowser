@@ -1,0 +1,11 @@
+{
+  "name": "Open In Browser",
+  "description": "opens links sent to bot in browser",
+  "version": "1.0",
+  "permissions": ["tabs"],
+  "manifest_version": 2,
+  "browser_action": {
+    "default_title": "Open in browser",
+    "default_popup": "index.html"
+  }
+}
